@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [About](about.md)
 * [Connection](connection/README.md)
   * [Working with Connection](connection/working-with-connection.md)
   * [Using ormconfig.json](connection/using-ormconfig.json.md)
