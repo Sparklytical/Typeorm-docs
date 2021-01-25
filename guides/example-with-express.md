@@ -4,10 +4,6 @@ description: Example using TypeORM with Express
 
 # Example with Express
 
-* [Initial setup]()
-* [Adding Express to the application]()
-* [Adding TypeORM to the application]()
-
 ## Initial setup
 
 Let's create a simple application called "user" which stores users in the database and allows us to create, update, remove, and get a list of all users, as well as a single user by id within web api.
